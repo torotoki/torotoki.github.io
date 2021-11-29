@@ -15,7 +15,7 @@
 * Due to the educational system in Japan, it was valid from April 2015, the year I was old enough to start college officially in Japan.
 
 # Skills
-* Programming Languages (Porificient): Java, Scala, Python.
+* Programming Languages (Proficient): Python, Scala, Java.
 * Programming Languages (Used): C/C++, Haskell, JavaScript.
 * Others: Android apps development, SQL, NoSQL, RDF and SPARQL, data collection with crowdsourcing.
 * 7-year experiences and understanding of natural language processing with both deep learning approaches & traditional statistical machine learning models, particularly for question answering systems.
@@ -44,7 +44,7 @@
 ## corenlp-python
 * Website: [https://bitbucket.org/torotoki/corenlp-python/](https://bitbucket.org/torotoki/corenlp-python/)
 * A Python wrapper for Stanford CoreNLP, a set of essential libraries for natural language processing. This is a fork of Dustin Smith’s stanford-corenlp-python with new features and bugfixes.
-* Received new 21 forks, 29 watchers in Bitbucket; also used in a natural language processing engineering, used in a source code for an international conference paper.
+* Received new **21** forks, **29** watchers in Bitbucket; also used by natural language processing engineers/researchers, also used in a source code for an international conference paper.
 
 ## BCCWJ-PAS
 * Tools & dataset for predicate-argument structures and coreferences for Balanced Corpus of Contemporary Written Japanese (BCCWJ), a popular corpus for Japanese language.
