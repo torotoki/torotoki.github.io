@@ -4,7 +4,6 @@
 * Slideshare: <https://www.slideshare.net/torotoki>
 * GitHub: <https://github.com/torotoki>
 * Bitbucket: <https://bitbucket.org/torotoki/>
-* Website: (old): <https://sites.google.com/site/hiroyoshikp/home>
 * Blog (Japanese): <https://torotoki.hatenablog.com/>
 
 # Education
@@ -12,13 +11,13 @@
 ### Keio University, Department of Information and Computer Science, Bachelor’s Degree (2017-04 to 2020-03)
 ### Keio University, Faculty of Environment and Information Studies (2016-09 to 2017-03)
 ### Passed Certificate for Students Achieving the Proficiency Level of Upper Secondary School Graduates Exam in Japan (2013-09)
-* Due to the educational system in Japan, it was valid from April 2015, the year I was old enough to start college officially in Japan.
+* Effective from April 2015 (18 years old)
 
 # Skills
 * Programming Languages (Proficient): Python, Scala, Java.
 * Programming Languages (Used): C/C++, Haskell, JavaScript.
-* Others: Android apps development, SQL, NoSQL, RDF and SPARQL, data collection with crowdsourcing.
-* 7-year experiences and understanding of natural language processing with both deep learning approaches & traditional statistical machine learning models, particularly for question answering systems.
+* Others: Android apps development, SQL, NoSQL, RDF and SPARQL.
+* 7-year experiences and understanding of natural language processing with both deep learning approaches & traditional statistical machine learning models.
 * Understanding of theoretical computer science: mathematical logic (proof theory), computational complexity theory and theoretical cryptography.
 * Basic skills: Linux, git
 <!-- 経験を書く -->
