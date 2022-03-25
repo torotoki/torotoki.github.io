@@ -15,7 +15,7 @@
 
 # Skills
 * Programming Languages (Proficient): Python, Scala, Java.
-* Programming Languages (Used): C/C++, Haskell, JavaScript.
+* Programming Languages (Readable): C/C++, Haskell, JavaScript.
 * Others: Android apps development, SQL, NoSQL, RDF and SPARQL.
 * 7-year experiences and understanding of natural language processing with both deep learning approaches & traditional statistical machine learning models.
 * Understanding of theoretical computer science: mathematical logic (proof theory), computational complexity theory and theoretical cryptography.
