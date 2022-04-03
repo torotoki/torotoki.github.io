@@ -8,8 +8,8 @@
 
 # Education
 ### The University of Tokyo, Department of Computer Science, Master’s Course (2021-04 to 2023-03, Present)
-### Keio University, Department of Information and Computer Science, Bachelor’s Degree (2017-04 to 2021-03)
-### Keio University, Faculty of Environment and Information Studies (2016-09 to 2017-03)
+### Keio University, Department of Information and Computer Science, Bachelor’s Degree (2018-04 to 2021-03)
+### Keio University, Faculty of Environment and Information Studies (2016-09 to 2018-03)
 ### Passed Certificate for Students Achieving the Proficiency Level of Upper Secondary School Graduates Exam in Japan (2013-09)
 * Effective from April 2015 (18 years old)
 
