@@ -16,7 +16,7 @@
 # Skills
 * Programming Languages (proficient): Python, Scala, Java.
 * Programming Languages (barely readable): C/C++, Haskell, JavaScript.
-* Others: Android apps development, SQL, NoSQL, RDF and SPARQL.
+* Others: Android apps development, SQL, NoSQL, SPARQL.
 * 7-year experiences and understanding of natural language processing with both deep learning approaches & traditional statistical machine learning models.
 * Understanding and basic research experience of mathematical logic (proof theory), computational complexity theory, and theoretical cryptography.
 * Basic skills: Linux, git
