@@ -59,7 +59,7 @@
 Robot Project.
   * Japanese: [https://www.nii.ac.jp/userdata/results/pr_data/NII_Today/60/p10-11.pdf](https://www.nii.ac.jp/userdata/results/pr_data/NII_Today/60/p10-11.pdf),
   * English: [https://www.nii.ac.jp/userdata/results/pr_data/NII_Today/60/p10-11.pdf](https://21robot.org/introduce/Thats-Collaboration-2-e.html)
-* Languages: japanese: native, English: TOEFL iBT 86 (2020-07), TOEIC 810 (2019-10)
+* Languages: japanese: native, English: TOEFL iBT 86 (2020-07), TOEIC 895 (2023-10)
 
 # Publications
 * The Logic for a Mildly Context-Sensitive Fragment of the Lambek-Grishin Calculus, 2021. Hiroyoshi Komatsu. arXiv preprint arXiv:2101.03634. [https://arxiv.org/abs/2101.03634](https://arxiv.org/abs/2101.03634)
