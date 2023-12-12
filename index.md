@@ -19,7 +19,7 @@
 * Others: Android apps development, SQL, NoSQL, SPARQL.
 * 7-year experiences and understanding of natural language processing with both deep learning approaches & traditional statistical machine learning models.
 * Understanding and basic research experience of mathematical logic (proof theory), computational complexity theory, and theoretical cryptography.
-* Basic skills: Linux, git
+* Basic skills: Linux, git, kubernetes
 <!-- 経験を書く -->
 
 # Experience
@@ -53,6 +53,7 @@
 # Other Works
 * DG Lab Tokyo, 2016: I’ve made a contextual question answering system for experiment with PyTorch.
 * Gakushuin University, 2016: I’ve made a benchmark system for a classification task of legal texts with PyTorch as a freelance.
+* The University of Tokyo, 2023: Teaching Assistant of the lecture "Computational Complexity Theory".
 
 # Misc
 * NII Today No. 60, 2013: The Younger Generation Discusses Their Hopes for the Todai
