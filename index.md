@@ -1,4 +1,4 @@
-# Resume of Hiroyoshi Komatsu
+# Hiroyoshi Komatsu’s Resume
 * Email: <hiroyoshi.komat@gmail.com>
 * Born: 1997/03/29
 * Slideshare: <https://www.slideshare.net/torotoki>
