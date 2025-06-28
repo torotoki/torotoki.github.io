@@ -27,7 +27,11 @@
 * A research assistant. I’ve worked on designing and making a dataset for contextual semantic parsing task based on real search queries and making a deep learning system with PyTorch.
 
 ## MITOU project 2013 (2013-10 to 2014-07)
-* Project Details: [https://www.ipa.go.jp/jinzai/mitou/2013/gaiyou_s-4](https://www.ipa.go.jp/jinzai/mitou/2013/gaiyou_s-4)
+* Project Details: [https://www.ipa.go.jp/archive/jinzai/mitou/it/2013/index.html](https://www.ipa.go.jp/archive/jinzai/mitou/it/2013/index.html)
+* Project Overview:
+
+* ![MITOU Overview](images/mitou_overview.png "overview")
+
 * I’ve proposed a new semantic parsing approach for virtual assistant applications. I’ve Implemented a core machine learning algorithm (log-linear model) and natural language processing system, a server-side backend, and an Android application for the frontend.
 * It has been awarded a selected “Super Creator” award of MITOU project 2013. (Less than 8% for all applicants, the youngest winner in time from 2000)
 
