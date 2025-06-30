@@ -14,10 +14,10 @@
 * Effective from April 2015 (18 years old)
 
 # Skills
-* Programming Languages (proficient): Python, Scala, Java.
-* Programming Languages (barely readable): C/C++, Haskell, JavaScript.
-* Others: Android apps development, SQL, NoSQL, SPARQL.
-* 7-year experiences and understanding of natural language processing with both deep learning approaches & traditional statistical machine learning models.
+* Programming Languages (proficient): Python, C/C++, Scala.
+* Programming Languages (barely readable): Java, Haskell, JavaScript.
+* Other skills: CUDA, Android app developing, SQL/NoSQL.
+* Understanding of natural language processing, deep learning and machine learning models.
 * Understanding and basic research experience of mathematical logic (proof theory), computational complexity theory, and theoretical cryptography.
 * Basic skills: Linux, git, kubernetes
 <!-- 経験を書く -->
