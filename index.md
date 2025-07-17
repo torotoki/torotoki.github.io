@@ -4,6 +4,7 @@
 * Slideshare: <https://www.slideshare.net/torotoki>
 * GitHub: <https://github.com/torotoki>
 * Bitbucket: <https://bitbucket.org/torotoki/>
+* LinkedIn: <https://www.linkedin.com/in/hiroyoshi-komatsu-831b04213/>
 * Blog (Japanese): <https://torotoki.hatenablog.com/>
 
 # Education
