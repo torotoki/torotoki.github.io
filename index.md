@@ -1,7 +1,7 @@
 # Hiroyoshi Komatsu’s Resume
 * Email: <hiroyoshi.komat@gmail.com>
 * Born: 1997/03/29
-* [Slideshare](<https://www.slideshare.net/torotoki>), [GitHub](https://github.com/torotoki), [Bitbucket](https://bitbucket.org/torotoki/), [LinkedIn](https://www.linkedin.com/in/hiroyoshi-komatsu-831b04213/), [Blog (Japanese)](<https://torotoki.hatenablog.com/>)
+* Links: [Slideshare](<https://www.slideshare.net/torotoki>), [GitHub](https://github.com/torotoki), [Bitbucket](https://bitbucket.org/torotoki/), [LinkedIn](https://www.linkedin.com/in/hiroyoshi-komatsu-831b04213/), [Blog (Japanese)](<https://torotoki.hatenablog.com/>)
 
 # Education
 ### The University of Tokyo, Department of Computer Science, Master of Science (2021-04 to 2023-03)
