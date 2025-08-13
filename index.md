@@ -40,6 +40,14 @@
 * A Technical Assistant. I’ve made a converter for a predicate-argument structures corpus in the Japanese language with Python.
 
 # Open-Source Projects
+## simple-paged-attention
+* Website: [https://github.com/torotoki/simple-paged-attention](https://github.com/torotoki/simple-paged-attention)
+* A full-scratch implementation of PagedAttention in CUDA/C++.
+
+## reasoning-minimal
+* Website: [https://github.com/torotoki/reasoning-minimal](https://github.com/torotoki/reasoning-minimal)
+* Minimal code to train a reasoning model from the base model with Group-Policy Reward Optimization (GRPO)
+
 ## corenlp-python
 * Website: [https://bitbucket.org/torotoki/corenlp-python/](https://bitbucket.org/torotoki/corenlp-python/)
 * A Python wrapper for Stanford CoreNLP, a set of essential libraries for natural language processing. This is a fork of Dustin Smith’s stanford-corenlp-python with new features and bugfixes.
