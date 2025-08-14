@@ -63,7 +63,7 @@
 
 ## cuda-utils
 * Website: [https://github.com/torotoki/cuda-utils](https://github.com/torotoki/cuda-utils)
-* A collection of popular parallel algorithms written in CUDA, and tiny utilities library.
+* A collection of popular parallel algorithms written in CUDA, and a tiny utilities library.
 
 # Other Works
 * DG Lab Tokyo, 2016: I’ve made a contextual question answering system for experiment with PyTorch.
