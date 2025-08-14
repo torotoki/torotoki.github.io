@@ -46,7 +46,7 @@
 
 ## reasoning-minimal
 * Website: [https://github.com/torotoki/reasoning-minimal](https://github.com/torotoki/reasoning-minimal)
-* Minimal code to train a reasoning model from the base model with Group-Policy Reward Optimization (GRPO)
+* Minimal code to train a reasoning model from the base model with Group-Policy Reward Optimization (GRPO).
 
 ## corenlp-python
 * Website: [https://bitbucket.org/torotoki/corenlp-python/](https://bitbucket.org/torotoki/corenlp-python/)
@@ -56,7 +56,11 @@
 ## BCCWJ-PAS
 * Tools & dataset for predicate-argument structures and coreferences for Balanced Corpus of Contemporary Written Japanese (BCCWJ), a popular corpus for Japanese language.
 * This is the project when I worked at Nara Institute of Science and Technology (NAIST) with Assistant Prof. Mamoru Komachi.
-* Currently available as a part of [BCCWJ-DepParaPAS](https://github.com/masayu-a/BCCWJ-DepParaPAS)
+* Currently available as a part of [BCCWJ-DepParaPAS](https://github.com/masayu-a/BCCWJ-DepParaPAS).
+
+## cuda-utils
+* Website: [https://github.com/torotoki/cuda-utils](https://github.com/torotoki/cuda-utils)
+* A collection of popular parallel algorithms written in CUDA, and tiny utilities library.
 
 # Other Works
 * DG Lab Tokyo, 2016: I’ve made a contextual question answering system for experiment with PyTorch.
