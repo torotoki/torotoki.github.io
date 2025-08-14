@@ -3,6 +3,9 @@
 * Born: 1997/03/29
 * Links: [Slideshare](<https://www.slideshare.net/torotoki>), [GitHub](https://github.com/torotoki), [Bitbucket](https://bitbucket.org/torotoki/), [LinkedIn](https://www.linkedin.com/in/hiroyoshi-komatsu-831b04213/), [Blog (Japanese)](<https://torotoki.hatenablog.com/>)
 
+# Current Work
+### Engineer, Preferred Networks (2023-04 to current)
+
 # Education
 ### The University of Tokyo, Department of Computer Science, Master of Science (2021-04 to 2023-03)
 ### Keio University, Department of Information and Computer Science, Bachelor’s Degree (2018-04 to 2021-03)
@@ -14,7 +17,7 @@
 * Programming Languages (proficient): Python, C/C++, Scala.
 * Programming Languages (barely readable): Java, Haskell, JavaScript.
 * Other skills: CUDA, Android app developing, SQL/NoSQL.
-* Understanding of natural language processing, deep learning and machine learning models.
+* Understanding of LLMs, natural language processing, deep learning and machine learning models.
 * Understanding and basic research experience of mathematical logic (proof theory), computational complexity theory, and theoretical cryptography.
 * Basic skills: Linux, git, kubernetes
 <!-- 経験を書く -->
