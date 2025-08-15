@@ -18,6 +18,7 @@
 * Programming Languages (barely readable): Java, Haskell, JavaScript.
 * Other skills: CUDA, Android app developing, SQL/NoSQL.
 * Understanding of LLMs, natural language processing, deep learning and machine learning.
+* Experience of distributed computing such as distributed model training, slurm, and load balancing through AWS services
 * Understanding and basic research experience of mathematical logic (proof theory), computational complexity theory, and theoretical cryptography.
 * Basic skills: Linux, git, kubernetes
 <!-- 経験を書く -->
