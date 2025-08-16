@@ -13,13 +13,12 @@
 ### Passed Certificate for Students Achieving the Proficiency Level of Upper Secondary School Graduates Exam in Japan (2013-09)
 * Effective from April 2016 (18 years old)
 
-# Skills
+# Selected Skills
 * Programming Languages (proficient): Python, C/C++, Scala.
 * Programming Languages (barely readable): Java, Haskell, JavaScript.
 * Other skills: CUDA, Android app developing, SQL/NoSQL.
 * Experience of LLMs, natural language processing, deep learning and machine learning.
 * Experience of distributed computing such as distributed model training, large-scale preprocessing using slurm, and load balancing using AWS services.
-* Understanding and basic research experience of computational complexity theory and mathematical logic (proof theory).
 * Basic skills: Linux, git, kubernetes
 <!-- 経験を書く -->
 
