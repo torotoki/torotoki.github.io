@@ -30,7 +30,7 @@
 * Proposed the project "Developing a Practical Question Answering System", selected for Japan's MITOU Program (Exploratory IT Human Resources Project).
 * Project overview:
   <img src="images/mitou_overview.png" style="border: 1px solid #ccc;" />
-* Project details: [https://www.ipa.go.jp/archive/jinzai/mitou/it/2013/index.html](https://www.ipa.go.jp/archive/jinzai/mitou/it/2013/index.html)
+* Project details: [https://www.ipa.go.jp/jinzai/mitou/it/2013/gaiyou_s-4.html](https://www.ipa.go.jp/jinzai/mitou/it/2013/gaiyou_s-4.html)
 * I’ve proposed a new semantic parsing approach for virtual assistant applications. I implemented everything from a machine learning algorithm (log-linear model) and a natural language processing system, to a server-side backend and an Android application as the frontend.
 * It has been awarded a selected “Super Creator” award of MITOU project 2013. (Less than 8% for all applicants, the youngest winner in time from 2000)
 
